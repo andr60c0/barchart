@@ -1,0 +1,12 @@
+.bar {
+  height: 50vw;
+  width: 10vw;
+  background-color: hotpink;
+  margin: 100px 2px 2px 2px;
+  border: 1px solid black;
+  align-self: baseline;
+}
+
+#bars {
+  display: flex;
+}
